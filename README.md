@@ -1,4 +1,4 @@
-# 🧠 TubeTalkAI
+# TubeTalkAI
 
 > **A Advanced RAG Based AI assistant that lets you chat with YouTube videos — powered by Gemini**
 
