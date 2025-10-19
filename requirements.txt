@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-qdrant
+langchain-community
+langchain-neo4j
+langchain-experimental
+python-dotenv
+neo4j
+qdrant-client
+openai
+yt-dlp
